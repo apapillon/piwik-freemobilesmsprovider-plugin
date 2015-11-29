@@ -1,0 +1,17 @@
+{
+  "name": "FreeMobileMessaging",
+  "version": "1.0.0",
+  "description": "Mobile Messaging Plugin: Free Mobile support",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.15.1-b2"
+  },
+  "homepage": "https://github.com/apapillon/piwik-freemobilesmsprovider-plugin",
+  "authors": [
+    {
+      "name": "Anthony Papillon",
+      "email": "contact@perhonen.fr",
+      "homepage": "http://perhonen.fr"
+    }
+  ]
+}
