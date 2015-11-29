@@ -1,6 +1,7 @@
 {
   "name": "FreeMobileMessaging",
   "version": "1.0.0",
+  "keywords": ["FreeMobile", "SMS", "report"],
   "description": "Mobile Messaging Plugin: Free Mobile support",
   "theme": false,
   "require": {
