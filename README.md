@@ -21,7 +21,7 @@ __1.0.0__
 
 ## License
 
-GPL v3 or later
+GPL v3
 
 ## Support
 
