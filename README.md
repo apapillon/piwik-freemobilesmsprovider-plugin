@@ -16,6 +16,9 @@ See http://piwik.org/faq/plugins/#faq_21
 
 ## Changelog
 
+__1.0.1__
+* Adapt to new Piwik API interface (>= 3.02)
+
 __1.0.0__
 * Initial release
 

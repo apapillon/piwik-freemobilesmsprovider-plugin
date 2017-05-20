@@ -1,11 +1,11 @@
 {
   "name": "FreeMobileMessaging",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["FreeMobile", "SMS", "report"],
   "description": "Mobile Messaging Plugin: Free Mobile support",
   "theme": false,
   "require": {
-    "piwik": ">=2.15.1-b2"
+    "piwik": ">=3.0.2"
   },
   "homepage": "https://github.com/apapillon/piwik-freemobilesmsprovider-plugin",
   "authors": [
